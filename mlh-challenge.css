@@ -1,0 +1,39 @@
+p
+{
+	text-align: center;
+    display: inline;
+    justify-content: center;
+    width: 50%;
+}
+*
+{
+	font-family:  Arial, verdana, sans-serif;
+	background-color: #FFFFFF ;
+
+}
+
+h1
+{
+	color: red;
+	text-shadow: 7px 7px 6px black;
+	text-align: center;
+	text-shadow: 2px 3px 4px black;
+	display: inline;
+    justify-content: center;
+    width: 50%;
+}
+p:hover
+{
+	border-left: 3px black solid;
+}
+
+h2
+{
+	color: red;
+	text-shadow: 7px 7px 6px black;
+	text-align:center;
+	text-shadow: 2px 3px 4px black;
+	display: inline;
+    justify-content: center;
+    width: 50%;
+}
